@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Shashank Parte 👋
 
-<!--
-**Shankp7/Shankp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Master of Computer Applications (MCA) | Python & Software Engineer
 
-Here are some ideas to get you started:
+I am a postgraduate student currently pursuing my MCA at Uttaranchal University, specializing in building scalable, offline-first desktop utilities and exploring the intersection of Generative AI and advanced data structures. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 **Currently building:** [SeqAnalyzer](https://github.com/Shankp7/SeqAnalyzer) - An offline, multithreaded Python bioinformatics utility.
+* 🌱 **Currently exploring:** Advanced Python concurrency, Google Cloud Vertex AI, and Image Generation models.
+* 📫 **How to reach me:** shashanlparte7@gmail.com
+* 📍 **Location:** Jabalpur, Madhya Pradesh, India
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, SQL
+* **Frameworks/UI:** CustomTkinter, Matplotlib, ReportLab (PDF Generation)
+* **Data Science:** Pandas, Biopython
+* **Developer Tools:** Git, SQLite, PyInstaller
+
+---
+
+### 🚀 Featured Project
+
+**[SeqAnalyzer](https://github.com/Shankp7/SeqAnalyzer)**
+A secure, offline desktop application engineered in Python to parse massive genomic FASTA files. Built with a CustomTkinter graphical dashboard, SQLite3 local history routing, and a multithreaded architecture to handle large dataset processing without freezing the UI.
