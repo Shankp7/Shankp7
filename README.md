@@ -7,7 +7,7 @@ I am a postgraduate student currently pursuing my MCA, specializing in building 
 * 🔭 **Currently building:** [SeqAnalyzer](https://github.com/Shankp7/SeqAnalyzer) - An offline Python bioinformatics application.
 * 🌱 **Currently exploring:** Advanced Python concurrency, Generative AI integrations, and full-stack system architecture.
 * 📫 **How to reach me:** shashanlparte7@gmail.com
-* 📍 **Location:** Jabalpur, Madhya Pradesh, India
+* 📍 **Location:** India
 
 ---
 
